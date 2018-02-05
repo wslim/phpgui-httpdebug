@@ -1,9 +1,9 @@
 # wxphp-httpdebug
 
-### 1.简介 Intro
+### 1. 简介 Intro
 HttpDebug 是使用 wxPHP/wxWidgets 开发的一个 PHP-GUI 程序。
 
-### 2.安装 Install
+### 2. 安装 Install
 #### 1) 必需环境 Requirements
 * Windows or Linux
 * 已安装了 wxWidgets 扩展的 PHP 环境。参考 [wxphp](https://github.com/wxphp/wxphp)
@@ -20,4 +20,4 @@ Directly download zip
 ```
 php main.php
 ```
-
+![wxphp-httpdebug](https://wslim.cn/images/github/wxphp-httpdebug/main.jpg)
