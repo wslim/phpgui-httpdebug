@@ -1,7 +1,7 @@
 # wxphp-httpdebug
 
 ### 1. 简介 Intro
-HttpDebug is a PHP-GUI application for debug http request, use wxPHP/wxWidgets.
+HttpDebug is a PHP-GUI application for debug http request, using wxPHP/wxWidgets.
 
 ### 2. 安装 Install
 

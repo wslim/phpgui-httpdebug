@@ -25,12 +25,10 @@ class HttpDebugMainFrame extends wxFrame
         $title = "HttpDebug";
         $width = 640;
         $height = 480;
-        $icon = realpath("./assets/logo.jpg");
         
         // =========================================
         parent::__construct(null, wxID_TOP, $title, wxDefaultPosition, new wxSize($width, $height) );
         wxInitAllImageHandlers();
-        $this->SetIcon(new wxIcon($icon, wxBITMAP_TYPE_JPEG));
         $this->SetBackgroundColour(new wxColour(255,255,255));
         
         $this->_init();
